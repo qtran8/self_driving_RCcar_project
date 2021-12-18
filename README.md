@@ -15,6 +15,7 @@
 
 2. Read the file in Github named "colors, pins, ports and parts record" and check if all the pins and ports connects correctly on the chips and Arduino board before powering and running the codes. 
 3. Regulator's left pin is 12VDC input, middle pin is 5V output and the right pin is ground. 
+4. The code of the library named "modified_SparkFun_TB6612FNG_Arduino_Library-master" was adjusted from the original code from the manufacturers to better turn left and turn right. 
 
 ### 2. Read the log journal included in Github to see if any questions answered. 
 Log Journal provides many important notes on how different components are used and its limitation.
